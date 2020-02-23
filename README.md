@@ -1,3 +1,3 @@
-# godot-3.0-games
+# dodge-the-creeps-godot3.0
 
-Some of my Godot(3.0.6) games from KidsCanCode's tutorials.
+My Godot Dodge the Creeps game from KidsCanCode's tutorials.
