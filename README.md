@@ -1,3 +1,3 @@
-# godot-3.1-games
+# godot-3.0-games
 
-Some of my Godot games from KidsCanCode's tutorials.
+Some of my Godot(3.0.6) games from KidsCanCode's tutorials.
